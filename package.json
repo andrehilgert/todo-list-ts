@@ -1,0 +1,22 @@
+{
+  "name": "todo-list-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrehilgert/todo-list-ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrehilgert/todo-list-ts/issues"
+  },
+  "homepage": "https://github.com/andrehilgert/todo-list-ts#readme",
+  "dependencies": {
+    "typescript": "^5.0.4"
+  }
+}
